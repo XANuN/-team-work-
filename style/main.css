@@ -72,14 +72,14 @@ img {
 .wrapper .instagram:hover,
 .wrapper .instagram:hover .tooltip,
 .wrapper .instagram:hover .tooltip::before {
-    background-color: #e1306c;
+    background-color: #333;
     color: #fff;
 }
 
 .wrapper .github:hover,
 .wrapper .github:hover .tooltip,
 .wrapper .github:hover .tooltip::before {
-    background-color: #333;
+    background-color: rgb(82, 60, 60);
     color: #fff;
 }
 
@@ -100,6 +100,6 @@ img {
 .wrapper .reddit:hover,
 .wrapper .reddit:hover .tooltip,
 .wrapper .reddit:hover .tooltip::before {
-    background-color: #FF4500;
+    background-color: #ffd900;
     color: #fff;
 }
