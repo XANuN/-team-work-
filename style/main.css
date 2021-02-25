@@ -103,3 +103,10 @@ img {
     background-color: #ffd900;
     color: #fff;
 }
+
+@media (max-width: 576px) {
+    .wrapper {
+        display: flex;
+        flex-flow: column wrap;
+    }
+}
